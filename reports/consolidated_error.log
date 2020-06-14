@@ -1,0 +1,9 @@
+./results/dbval_ab_commit_table.csv.txt:CRITICAL: column "sql" does not exist
+./results/dbval_chained_rows.csv.txt:cx_Oracle.DatabaseError: ORA-00942: table or view does not exist
+./results/dbval_dummy.csv.txt:cx_Oracle.DatabaseError: ORA-00942: table or view does not exist
+./results/dbval_embarcadero_explain_plan.csv.txt:cx_Oracle.DatabaseError: ORA-00904: "BYTES_TAG": invalid identifier
+./results/dbval_invalid_rows.csv.txt:cx_Oracle.DatabaseError: ORA-00942: table or view does not exist
+./results/dbval_load_dc_migr_portfolio.csv.txt:cx_Oracle.DatabaseError: ORA-00972: identifier is too long
+./results/dbval_pw_event_journal.csv.txt:cx_Oracle.DatabaseError: ORA-00972: identifier is too long
+./results/dbval_rrr.csv.txt:cx_Oracle.DatabaseError: ORA-00942: table or view does not exist
+./results/dbval_user_pis_portfolio_save.csv.txt:cx_Oracle.DatabaseError: ORA-00972: identifier is too long

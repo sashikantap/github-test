@@ -1,0 +1,223 @@
+./results/dbval_aaa_account_mapping.csv.txt:---------------------------- SUMMARY: Total=1946 Passed=799 Failed=1147-----------------------------
+./results/dbval_ab_commit_table.csv.txt:------------------------------- SUMMARY: Total=1  Passed=0  Failed=1 -------------------------------
+./results/dbval_asset.csv.txt:---------------------------- SUMMARY: Total=2117 Passed=151 Failed=1966-----------------------------
+./results/dbval_asset_active_portfolio.csv.txt:----------------------------- SUMMARY: Total=2013 Passed=0  Failed=2013-----------------------------
+./results/dbval_asset_pref_symbol_rank.csv.txt:------------------------------- SUMMARY: Total=22 Passed=20 Failed=2 -------------------------------
+./results/dbval_asset_s.csv.txt:----------------------------- SUMMARY: Total=2065 Passed=0  Failed=2065-----------------------------
+./results/dbval_asset_state_change.csv.txt:---------------------------- SUMMARY: Total=2027 Passed=547 Failed=1480-----------------------------
+./results/dbval_attrib_definition.csv.txt:---------------------------- SUMMARY: Total=2000 Passed=677 Failed=1323-----------------------------
+./results/dbval_attrib_definition_share.csv.txt:------------------------------ SUMMARY: Total=786 Passed=0  Failed=786------------------------------
+./results/dbval_attrib_definition_share_s.csv.txt:----------------------------- SUMMARY: Total=2050 Passed=0  Failed=2050-----------------------------
+./results/dbval_attrib_fx_rate_dse.csv.txt:----------------------------- SUMMARY: Total=2014 Passed=1943 Failed=71-----------------------------
+./results/dbval_attrib_grouping_scheme.csv.txt:---------------------------- SUMMARY: Total=1377 Passed=1198 Failed=179-----------------------------
+./results/dbval_attrib_grouping_scheme_comp.csv.txt:---------------------------- SUMMARY: Total=2052 Passed=1868 Failed=184-----------------------------
+./results/dbval_attrib_hierarchy.csv.txt:---------------------------- SUMMARY: Total=1916 Passed=1718 Failed=198-----------------------------
+./results/dbval_attrib_hierarchy_comp.csv.txt:---------------------------- SUMMARY: Total=2051 Passed=1431 Failed=620-----------------------------
+./results/dbval_attrib_hierarchy_usage.csv.txt:---------------------------- SUMMARY: Total=1923 Passed=1724 Failed=199-----------------------------
+./results/dbval_attrib_load_detail.csv.txt:----------------------------- SUMMARY: Total=2002 Passed=0  Failed=2002-----------------------------
+./results/dbval_attrib_load_summary.csv.txt:----------------------------- SUMMARY: Total=2016 Passed=0  Failed=2016-----------------------------
+./results/dbval_attrib_mday_mon_val_corax.csv.txt:---------------------------- SUMMARY: Total=2080 Passed=237 Failed=1843-----------------------------
+./results/dbval_attrib_mday_money_val.csv.txt:---------------------------- SUMMARY: Total=1950 Passed=1592 Failed=358-----------------------------
+./results/dbval_attrib_mday_money_val_dsos.csv.txt:---------------------------- SUMMARY: Total=2025 Passed=660 Failed=1365-----------------------------
+./results/dbval_attrib_mday_money_val_ws.csv.txt:---------------------------- SUMMARY: Total=1973 Passed=965 Failed=1008-----------------------------
+./results/dbval_attrib_mday_num_val_corax.csv.txt:---------------------------- SUMMARY: Total=2059 Passed=234 Failed=1825-----------------------------
+./results/dbval_attrib_mday_number_val.csv.txt:---------------------------- SUMMARY: Total=1967 Passed=1148 Failed=819-----------------------------
+./results/dbval_attrib_mday_number_val_dsos.csv.txt:---------------------------- SUMMARY: Total=2143 Passed=445 Failed=1698-----------------------------
+./results/dbval_attrib_mday_number_val_rdc.csv.txt:---------------------------- SUMMARY: Total=2104 Passed=503 Failed=1601-----------------------------
+./results/dbval_attrib_mday_number_val_ws.csv.txt:---------------------------- SUMMARY: Total=1999 Passed=1314 Failed=685-----------------------------
+./results/dbval_attrib_mday_sector_str_val.csv.txt:---------------------------- SUMMARY: Total=2020 Passed=670 Failed=1350-----------------------------
+./results/dbval_attrib_mday_str_c_val.csv.txt:---------------------------- SUMMARY: Total=2023 Passed=1528 Failed=495-----------------------------
+./results/dbval_attrib_mday_str_val_dsos.csv.txt:---------------------------- SUMMARY: Total=2150 Passed=839 Failed=1311-----------------------------
+./results/dbval_attrib_mday_str_val_rdc.csv.txt:---------------------------- SUMMARY: Total=2001 Passed=572 Failed=1429-----------------------------
+./results/dbval_attrib_mday_str_val_ws.csv.txt:---------------------------- SUMMARY: Total=1990 Passed=970 Failed=1020-----------------------------
+./results/dbval_attrib_mday_yn_val_dsos.csv.txt:---------------------------- SUMMARY: Total=2143 Passed=1168 Failed=975-----------------------------
+./results/dbval_attrib_realization_type.csv.txt:------------------------------- SUMMARY: Total=6  Passed=4  Failed=2 -------------------------------
+./results/dbval_attrib_sday_money_val_dse.csv.txt:----------------------------- SUMMARY: Total=2022 Passed=2009 Failed=13-----------------------------
+./results/dbval_attrib_sday_money_val_ws.csv.txt:---------------------------- SUMMARY: Total=2013 Passed=1720 Failed=293-----------------------------
+./results/dbval_attrib_sday_number_risk_raw.csv.txt:----------------------------- SUMMARY: Total=2124 Passed=20 Failed=2104-----------------------------
+./results/dbval_attrib_sday_number_risk_smooth.csv.txt:----------------------------- SUMMARY: Total=2123 Passed=0  Failed=2123-----------------------------
+./results/dbval_attrib_sday_number_val.csv.txt:---------------------------- SUMMARY: Total=2068 Passed=1726 Failed=342-----------------------------
+./results/dbval_attrib_sday_number_val_risk.csv.txt:---------------------------- SUMMARY: Total=2093 Passed=1819 Failed=274-----------------------------
+./results/dbval_attrib_sday_number_val_ws.csv.txt:---------------------------- SUMMARY: Total=1973 Passed=1686 Failed=287-----------------------------
+./results/dbval_attrib_snum_strmn.csv.txt:---------------------------- SUMMARY: Total=2079 Passed=1681 Failed=398-----------------------------
+./results/dbval_attrib_snum_user_2.csv.txt:----------------------------- SUMMARY: Total=1933 Passed=0  Failed=1933-----------------------------
+./results/dbval_attrib_snum_val_datastream.csv.txt:----------------------------- SUMMARY: Total=1989 Passed=1979 Failed=10-----------------------------
+./results/dbval_attrib_user_mday_money_val.csv.txt:---------------------------- SUMMARY: Total=1981 Passed=566 Failed=1415-----------------------------
+./results/dbval_attrib_user_mday_num_val.csv.txt:---------------------------- SUMMARY: Total=2028 Passed=1891 Failed=137-----------------------------
+./results/dbval_attrib_user_sday_money_val.csv.txt:---------------------------- SUMMARY: Total=1896 Passed=1738 Failed=158-----------------------------
+./results/dbval_attrib_user_sday_num_val.csv.txt:---------------------------- SUMMARY: Total=2061 Passed=1051 Failed=1010----------------------------
+./results/dbval_attrib_value_table.csv.txt:------------------------------- SUMMARY: Total=48 Passed=11 Failed=37-------------------------------
+./results/dbval_attrib_vestek_uid_val.csv.txt:---------------------------- SUMMARY: Total=1979 Passed=1750 Failed=229-----------------------------
+./results/dbval_attribute_retrieval_rule.csv.txt:------------------------------ SUMMARY: Total=102 Passed=69 Failed=33-------------------------------
+./results/dbval_attribute_retrieval_rule_v2.csv.txt:------------------------------ SUMMARY: Total=179 Passed=0  Failed=179------------------------------
+./results/dbval_business_entity.csv.txt:----------------------------- SUMMARY: Total=1941 Passed=2  Failed=1939-----------------------------
+./results/dbval_business_entity_at.csv.txt:----------------------------- SUMMARY: Total=1896 Passed=0  Failed=1896-----------------------------
+./results/dbval_business_entity_s.csv.txt:----------------------------- SUMMARY: Total=2010 Passed=0  Failed=2010-----------------------------
+./results/dbval_cache_comp.csv.txt:---------------------------- SUMMARY: Total=2060 Passed=1846 Failed=214-----------------------------
+./results/dbval_cache_member_update.csv.txt:----------------------------- SUMMARY: Total=2082 Passed=74 Failed=2008-----------------------------
+./results/dbval_client_application_license_bak.csv.txt:----------------------------- SUMMARY: Total=2026 Passed=0  Failed=2026-----------------------------
+./results/dbval_close_price_dse.csv.txt:---------------------------- SUMMARY: Total=2183 Passed=714 Failed=1469-----------------------------
+./results/dbval_corporate_action.csv.txt:---------------------------- SUMMARY: Total=2023 Passed=893 Failed=1130-----------------------------
+./results/dbval_currency.csv.txt:------------------------------ SUMMARY: Total=190 Passed=189 Failed=1 ------------------------------
+./results/dbval_data_source.csv.txt:---------------------------- SUMMARY: Total=2035 Passed=131 Failed=1904-----------------------------
+./results/dbval_dc_environment_cd.csv.txt:------------------------------- SUMMARY: Total=8  Passed=7  Failed=1 -------------------------------
+./results/dbval_dc_map_asset.csv.txt:----------------------------- SUMMARY: Total=1952 Passed=0  Failed=1952-----------------------------
+./results/dbval_dc_map_attrib_def.csv.txt:------------------------------ SUMMARY: Total=589 Passed=0  Failed=589------------------------------
+./results/dbval_dc_map_domain.csv.txt:------------------------------- SUMMARY: Total=29 Passed=0  Failed=29-------------------------------
+./results/dbval_dc_map_domain_map.csv.txt:------------------------------- SUMMARY: Total=13 Passed=0  Failed=13-------------------------------
+./results/dbval_dc_map_grouping_scheme.csv.txt:------------------------------- SUMMARY: Total=15 Passed=0  Failed=15-------------------------------
+./results/dbval_dc_map_perm_policy.csv.txt:------------------------------ SUMMARY: Total=569 Passed=0  Failed=569------------------------------
+./results/dbval_dc_map_portfolio.csv.txt:------------------------------ SUMMARY: Total=293 Passed=0  Failed=293------------------------------
+./results/dbval_dc_map_range_scheme.csv.txt:------------------------------- SUMMARY: Total=21 Passed=0  Failed=21-------------------------------
+./results/dbval_dc_migr_job.csv.txt:------------------------------- SUMMARY: Total=58 Passed=0  Failed=58-------------------------------
+./results/dbval_dc_migr_job_status_hist.csv.txt:----------------------------- SUMMARY: Total=1916 Passed=0  Failed=1916-----------------------------
+./results/dbval_dc_migr_org.csv.txt:------------------------------ SUMMARY: Total=211 Passed=3  Failed=208------------------------------
+./results/dbval_dc_migr_org_table.csv.txt:----------------------------- SUMMARY: Total=1996 Passed=0  Failed=1996-----------------------------
+./results/dbval_dc_migr_task_done.csv.txt:----------------------------- SUMMARY: Total=1999 Passed=0  Failed=1999-----------------------------
+./results/dbval_derivative_price_dse.csv.txt:---------------------------- SUMMARY: Total=2050 Passed=396 Failed=1654-----------------------------
+./results/dbval_div_splt.csv.txt:----------------------------- SUMMARY: Total=2116 Passed=2094 Failed=22-----------------------------
+./results/dbval_dmt_access.csv.txt:------------------------------- SUMMARY: Total=96 Passed=90 Failed=6 -------------------------------
+./results/dbval_domain.csv.txt:------------------------------ SUMMARY: Total=280 Passed=255 Failed=25------------------------------
+./results/dbval_domain_composites.csv.txt:------------------------------- SUMMARY: Total=13 Passed=8  Failed=5 -------------------------------
+./results/dbval_domain_map.csv.txt:------------------------------ SUMMARY: Total=131 Passed=117 Failed=14------------------------------
+./results/dbval_domain_map_entry.csv.txt:---------------------------- SUMMARY: Total=2033 Passed=1847 Failed=186-----------------------------
+./results/dbval_domain_value.csv.txt:----------------------------- SUMMARY: Total=1914 Passed=1821 Failed=93-----------------------------
+./results/dbval_eikon_t1_user_map.csv.txt:------------------------------- SUMMARY: Total=18 Passed=0  Failed=18-------------------------------
+./results/dbval_eikon_t1_user_map_s.csv.txt:------------------------------- SUMMARY: Total=1  Passed=0  Failed=1 -------------------------------
+./results/dbval_entity.csv.txt:---------------------------- SUMMARY: Total=2014 Passed=811 Failed=1203-----------------------------
+./results/dbval_entity_group.csv.txt:---------------------------- SUMMARY: Total=2106 Passed=1871 Failed=235-----------------------------
+./results/dbval_entity_group_at.csv.txt:----------------------------- SUMMARY: Total=2050 Passed=0  Failed=2050-----------------------------
+./results/dbval_entity_group_comp.csv.txt:---------------------------- SUMMARY: Total=2032 Passed=1173 Failed=859-----------------------------
+./results/dbval_entity_group_comp_at.csv.txt:----------------------------- SUMMARY: Total=2095 Passed=0  Failed=2095-----------------------------
+./results/dbval_entity_group_comp_s.csv.txt:----------------------------- SUMMARY: Total=2017 Passed=0  Failed=2017-----------------------------
+./results/dbval_entity_group_s.csv.txt:----------------------------- SUMMARY: Total=1986 Passed=0  Failed=1986-----------------------------
+./results/dbval_eprice.csv.txt:---------------------------- SUMMARY: Total=1949 Passed=637 Failed=1312-----------------------------
+./results/dbval_feed_asset_reload.csv.txt:----------------------------- SUMMARY: Total=1969 Passed=1  Failed=1968-----------------------------
+./results/dbval_feed_attrib_val_exclusion.csv.txt:---------------------------- SUMMARY: Total=5700 Passed=5344 Failed=356-----------------------------
+./results/dbval_formula.csv.txt:------------------------------ SUMMARY: Total=134 Passed=87 Failed=47-------------------------------
+./results/dbval_formula_s.csv.txt:------------------------------- SUMMARY: Total=47 Passed=0  Failed=47-------------------------------
+./results/dbval_gem_company_load.csv.txt:---------------------------- SUMMARY: Total=1940 Passed=563 Failed=1377-----------------------------
+./results/dbval_gem_identifier_load.csv.txt:----------------------------- SUMMARY: Total=2055 Passed=0  Failed=2055-----------------------------
+./results/dbval_gem_identifier_sync.csv.txt:----------------------------- SUMMARY: Total=2017 Passed=0  Failed=2017-----------------------------
+./results/dbval_gem_load_stat.csv.txt:------------------------------ SUMMARY: Total=248 Passed=0  Failed=248------------------------------
+./results/dbval_gem_quotemaster_load.csv.txt:----------------------------- SUMMARY: Total=1985 Passed=0  Failed=1985-----------------------------
+./results/dbval_gem_relationship_load.csv.txt:------------------------------ SUMMARY: Total=347 Passed=0  Failed=347------------------------------
+./results/dbval_holdings_load.csv.txt:---------------------------- SUMMARY: Total=1992 Passed=1467 Failed=525-----------------------------
+./results/dbval_holdings_load_failed_positions.csv.txt:---------------------------- SUMMARY: Total=2226 Passed=160 Failed=2066-----------------------------
+./results/dbval_holdings_statement.csv.txt:---------------------------- SUMMARY: Total=1971 Passed=1853 Failed=118-----------------------------
+./results/dbval_identifier.csv.txt:---------------------------- SUMMARY: Total=1983 Passed=475 Failed=1508-----------------------------
+./results/dbval_identifier_formula_map_symbol.csv.txt:------------------------------- SUMMARY: Total=19 Passed=16 Failed=3 -------------------------------
+./results/dbval_identifier_map_symbol_type.csv.txt:------------------------------ SUMMARY: Total=311 Passed=253 Failed=58------------------------------
+./results/dbval_identifier_s.csv.txt:----------------------------- SUMMARY: Total=2023 Passed=0  Failed=2023-----------------------------
+./results/dbval_idiv_splt.csv.txt:----------------------------- SUMMARY: Total=2075 Passed=2056 Failed=19-----------------------------
+./results/dbval_ilx_comp_identifier_backup.csv.txt:----------------------------- SUMMARY: Total=1986 Passed=0  Failed=1986-----------------------------
+./results/dbval_intlmast.csv.txt:---------------------------- SUMMARY: Total=1992 Passed=1571 Failed=421-----------------------------
+./results/dbval_iprice.csv.txt:---------------------------- SUMMARY: Total=2088 Passed=1798 Failed=290-----------------------------
+./results/dbval_issuer_name.csv.txt:---------------------------- SUMMARY: Total=2232 Passed=264 Failed=1968-----------------------------
+./results/dbval_issuer_name_dsos.csv.txt:---------------------------- SUMMARY: Total=2058 Passed=909 Failed=1149-----------------------------
+./results/dbval_issuer_name_rdc.csv.txt:---------------------------- SUMMARY: Total=2023 Passed=452 Failed=1571-----------------------------
+./results/dbval_job_data_translation.csv.txt:------------------------------ SUMMARY: Total=124 Passed=0  Failed=124------------------------------
+./results/dbval_job_data_translation_value.csv.txt:----------------------------- SUMMARY: Total=2080 Passed=0  Failed=2080-----------------------------
+./results/dbval_job_dataload_target_column.csv.txt:------------------------------- SUMMARY: Total=58 Passed=57 Failed=1 -------------------------------
+./results/dbval_job_fd_column.csv.txt:----------------------------- SUMMARY: Total=2005 Passed=0  Failed=2005-----------------------------
+./results/dbval_job_fd_column_mapping.csv.txt:----------------------------- SUMMARY: Total=1998 Passed=0  Failed=1998-----------------------------
+./results/dbval_job_fd_property.csv.txt:----------------------------- SUMMARY: Total=1987 Passed=0  Failed=1987-----------------------------
+./results/dbval_job_fd_record.csv.txt:------------------------------ SUMMARY: Total=954 Passed=0  Failed=954------------------------------
+./results/dbval_job_file_definition.csv.txt:------------------------------ SUMMARY: Total=955 Passed=0  Failed=955------------------------------
+./results/dbval_job_load_failed_record_log.csv.txt:----------------------------- SUMMARY: Total=2075 Passed=0  Failed=2075-----------------------------
+./results/dbval_job_pf_share_grp_failed_log.csv.txt:------------------------------- SUMMARY: Total=57 Passed=0  Failed=57-------------------------------
+./results/dbval_job_portfolio_sharing.csv.txt:------------------------------ SUMMARY: Total=277 Passed=0  Failed=277------------------------------
+./results/dbval_job_reports_error_log.csv.txt:----------------------------- SUMMARY: Total=2043 Passed=0  Failed=2043-----------------------------
+./results/dbval_job_specification.csv.txt:------------------------------ SUMMARY: Total=124 Passed=0  Failed=124------------------------------
+./results/dbval_job_submission_config.csv.txt:------------------------------ SUMMARY: Total=983 Passed=0  Failed=983------------------------------
+./results/dbval_job_submission_config_property.csv.txt:----------------------------- SUMMARY: Total=1990 Passed=0  Failed=1990-----------------------------
+./results/dbval_journal_entry.csv.txt:------------------------------- SUMMARY: Total=1  Passed=0  Failed=1 -------------------------------
+./results/dbval_laps_account_temp_data.csv.txt:------------------------------ SUMMARY: Total=657 Passed=9  Failed=648------------------------------
+./results/dbval_laps_user_temp_data.csv.txt:----------------------------- SUMMARY: Total=1965 Passed=0  Failed=1965-----------------------------
+./results/dbval_list_appl_attribute.csv.txt:----------------------------- SUMMARY: Total=1833 Passed=1785 Failed=48-----------------------------
+./results/dbval_list_application.csv.txt:------------------------------- SUMMARY: Total=97 Passed=92 Failed=5 -------------------------------
+./results/dbval_list_comp.csv.txt:---------------------------- SUMMARY: Total=2042 Passed=245 Failed=1797-----------------------------
+./results/dbval_list_comp_appl_attrib_val.csv.txt:---------------------------- SUMMARY: Total=2017 Passed=1861 Failed=156-----------------------------
+./results/dbval_load_identifier_value.csv.txt:---------------------------- SUMMARY: Total=3077 Passed=166 Failed=2911-----------------------------
+./results/dbval_load_lock.csv.txt:---------------------------- SUMMARY: Total=2010 Passed=1552 Failed=458-----------------------------
+./results/dbval_load_total_return_price_dse.csv.txt:------------------------------ SUMMARY: Total=886 Passed=0  Failed=886------------------------------
+./results/dbval_load_uid_as_of_dt.csv.txt:----------------------------- SUMMARY: Total=1977 Passed=1932 Failed=45-----------------------------
+./results/dbval_load_upd_curreny_value.csv.txt:---------------------------- SUMMARY: Total=1970 Passed=496 Failed=1474-----------------------------
+./results/dbval_mmaster.csv.txt:----------------------------- SUMMARY: Total=2059 Passed=1  Failed=2058-----------------------------
+./results/dbval_package_perm_code.csv.txt:------------------------------- SUMMARY: Total=97 Passed=91 Failed=6 -------------------------------
+./results/dbval_peerlist_target_asset_map.csv.txt:---------------------------- SUMMARY: Total=2045 Passed=857 Failed=1188-----------------------------
+./results/dbval_perm_appl_exclude_policy_at.csv.txt:------------------------------- SUMMARY: Total=1  Passed=0  Failed=1 -------------------------------
+./results/dbval_perm_package_mapping.csv.txt:----------------------------- SUMMARY: Total=348 Passed=114 Failed=234------------------------------
+./results/dbval_perm_policy.csv.txt:---------------------------- SUMMARY: Total=2072 Passed=1955 Failed=117-----------------------------
+./results/dbval_perm_policy_at.csv.txt:----------------------------- SUMMARY: Total=1985 Passed=0  Failed=1985-----------------------------
+./results/dbval_perm_policy_perm.csv.txt:---------------------------- SUMMARY: Total=2041 Passed=1851 Failed=190-----------------------------
+./results/dbval_perm_policy_perm_at.csv.txt:----------------------------- SUMMARY: Total=2025 Passed=0  Failed=2025-----------------------------
+./results/dbval_perm_policy_perm_attribute.csv.txt:------------------------------ SUMMARY: Total=128 Passed=95 Failed=33-------------------------------
+./results/dbval_perm_policy_perm_attribute_at.csv.txt:------------------------------- SUMMARY: Total=59 Passed=0  Failed=59-------------------------------
+./results/dbval_perm_policy_perm_s.csv.txt:----------------------------- SUMMARY: Total=2069 Passed=0  Failed=2069-----------------------------
+./results/dbval_perm_policy_resource.csv.txt:---------------------------- SUMMARY: Total=1996 Passed=1847 Failed=149-----------------------------
+./results/dbval_perm_policy_resource_at.csv.txt:----------------------------- SUMMARY: Total=1987 Passed=0  Failed=1987-----------------------------
+./results/dbval_perm_policy_resource_s.csv.txt:----------------------------- SUMMARY: Total=2042 Passed=0  Failed=2042-----------------------------
+./results/dbval_perm_policy_s.csv.txt:----------------------------- SUMMARY: Total=2024 Passed=0  Failed=2024-----------------------------
+./results/dbval_perm_policy_user_group.csv.txt:---------------------------- SUMMARY: Total=2213 Passed=1924 Failed=289-----------------------------
+./results/dbval_perm_policy_user_group_at.csv.txt:----------------------------- SUMMARY: Total=1986 Passed=0  Failed=1986-----------------------------
+./results/dbval_perm_policy_user_group_s.csv.txt:----------------------------- SUMMARY: Total=2042 Passed=0  Failed=2042-----------------------------
+./results/dbval_portfolio.csv.txt:---------------------------- SUMMARY: Total=1987 Passed=200 Failed=1787-----------------------------
+./results/dbval_portfolio_access_recent_pa.csv.txt:----------------------------- SUMMARY: Total=1990 Passed=4  Failed=1986-----------------------------
+./results/dbval_portfolio_attribute.csv.txt:---------------------------- SUMMARY: Total=2034 Passed=1889 Failed=145-----------------------------
+./results/dbval_portfolio_carveout.csv.txt:----------------------------- SUMMARY: Total=377 Passed=162 Failed=215------------------------------
+./results/dbval_portfolio_carveout_sector.csv.txt:----------------------------- SUMMARY: Total=1410 Passed=667 Failed=743-----------------------------
+./results/dbval_portfolio_s.csv.txt:----------------------------- SUMMARY: Total=2081 Passed=0  Failed=2081-----------------------------
+./results/dbval_position.csv.txt:---------------------------- SUMMARY: Total=2030 Passed=413 Failed=1617-----------------------------
+./results/dbval_position_uid_fix_tmp.csv.txt:------------------------------ SUMMARY: Total=516 Passed=0  Failed=516------------------------------
+./results/dbval_pw_event_journal_track.csv.txt:----------------------------- SUMMARY: Total=1099 Passed=0  Failed=1099-----------------------------
+./results/dbval_pw_parameter.csv.txt:------------------------------- SUMMARY: Total=54 Passed=24 Failed=30-------------------------------
+./results/dbval_range_scheme.csv.txt:----------------------------- SUMMARY: Total=2030 Passed=2006 Failed=24-----------------------------
+./results/dbval_range_scheme_range_exclusion.csv.txt:------------------------------ SUMMARY: Total=392 Passed=388 Failed=4 ------------------------------
+./results/dbval_range_segment.csv.txt:----------------------------- SUMMARY: Total=1993 Passed=1965 Failed=28-----------------------------
+./results/dbval_range_segment_range.csv.txt:----------------------------- SUMMARY: Total=1941 Passed=1924 Failed=17-----------------------------
+./results/dbval_realm.csv.txt:----------------------------- SUMMARY: Total=2014 Passed=93 Failed=1921-----------------------------
+./results/dbval_risk_model.csv.txt:------------------------------- SUMMARY: Total=84 Passed=74 Failed=10-------------------------------
+./results/dbval_risk_model_smooth_attr_mapping.csv.txt:------------------------------- SUMMARY: Total=9  Passed=0  Failed=9 -------------------------------
+./results/dbval_risk_model_smooth_mapping.csv.txt:------------------------------- SUMMARY: Total=5  Passed=0  Failed=5 -------------------------------
+./results/dbval_rm_cov_update_date.csv.txt:---------------------------- SUMMARY: Total=1965 Passed=388 Failed=1577-----------------------------
+./results/dbval_rm_daily_covariance.csv.txt:----------------------------- SUMMARY: Total=2171 Passed=0  Failed=2171-----------------------------
+./results/dbval_rm_factor.csv.txt:----------------------------- SUMMARY: Total=1642 Passed=800 Failed=842-----------------------------
+./results/dbval_rm_factor_covariance.csv.txt:---------------------------- SUMMARY: Total=2115 Passed=1910 Failed=205-----------------------------
+./results/dbval_rm_factor_type.csv.txt:------------------------------ SUMMARY: Total=115 Passed=56 Failed=59-------------------------------
+./results/dbval_rm_tr_factor_return.csv.txt:----------------------------- SUMMARY: Total=2215 Passed=0  Failed=2215-----------------------------
+./results/dbval_sovereign_bond.csv.txt:----------------------------- SUMMARY: Total=2042 Passed=0  Failed=2042-----------------------------
+./results/dbval_string_load.csv.txt:---------------------------- SUMMARY: Total=4195 Passed=3855 Failed=340-----------------------------
+./results/dbval_task_dependency.csv.txt:----------------------------- SUMMARY: Total=2058 Passed=0  Failed=2058-----------------------------
+./results/dbval_task_type.csv.txt:------------------------------- SUMMARY: Total=59 Passed=58 Failed=1 -------------------------------
+./results/dbval_tmp_idc.csv.txt:----------------------------- SUMMARY: Total=1958 Passed=0  Failed=1958-----------------------------
+./results/dbval_tmp_idc_cusip.csv.txt:----------------------------- SUMMARY: Total=2053 Passed=0  Failed=2053-----------------------------
+./results/dbval_tmp_ru_msci.csv.txt:----------------------------- SUMMARY: Total=1982 Passed=0  Failed=1982-----------------------------
+./results/dbval_tmt_current_identifier.csv.txt:----------------------------- SUMMARY: Total=2030 Passed=0  Failed=2030-----------------------------
+./results/dbval_tmt_current_identifier_load.csv.txt:----------------------------- SUMMARY: Total=2032 Passed=0  Failed=2032-----------------------------
+./results/dbval_topas_commit_table.csv.txt:----------------------------- SUMMARY: Total=1987 Passed=0  Failed=1987-----------------------------
+./results/dbval_topas_properties.csv.txt:------------------------------- SUMMARY: Total=36 Passed=19 Failed=17-------------------------------
+./results/dbval_total_return_price_dse.csv.txt:---------------------------- SUMMARY: Total=2055 Passed=1749 Failed=306-----------------------------
+./results/dbval_transaction.csv.txt:----------------------------- SUMMARY: Total=2026 Passed=2023 Failed=3 -----------------------------
+./results/dbval_transaction_load.csv.txt:----------------------------- SUMMARY: Total=1984 Passed=1982 Failed=2 -----------------------------
+./results/dbval_transaction_load_failed_log.csv.txt:----------------------------- SUMMARY: Total=2038 Passed=1965 Failed=73-----------------------------
+./results/dbval_user_application_license.csv.txt:---------------------------- SUMMARY: Total=1949 Passed=1428 Failed=521-----------------------------
+./results/dbval_user_application_license_at.csv.txt:----------------------------- SUMMARY: Total=1970 Passed=0  Failed=1970-----------------------------
+./results/dbval_user_application_license_s.csv.txt:----------------------------- SUMMARY: Total=1955 Passed=0  Failed=1955-----------------------------
+./results/dbval_user_info.csv.txt:----------------------------- SUMMARY: Total=1961 Passed=54 Failed=1907-----------------------------
+./results/dbval_user_info_at.csv.txt:----------------------------- SUMMARY: Total=1994 Passed=0  Failed=1994-----------------------------
+./results/dbval_user_info_s.csv.txt:----------------------------- SUMMARY: Total=2066 Passed=0  Failed=2066-----------------------------
+./results/dbval_user_pis_position_save.csv.txt:----------------------------- SUMMARY: Total=2073 Passed=2072 Failed=1 -----------------------------
+./results/dbval_user_pref_identifier_order.csv.txt:----------------------------- SUMMARY: Total=1009 Passed=565 Failed=444-----------------------------
+./results/dbval_valuation_dsos.csv.txt:---------------------------- SUMMARY: Total=4228 Passed=2806 Failed=1422----------------------------
+./results/dbval_vendor_pupfile_directory.csv.txt:------------------------------ SUMMARY: Total=100 Passed=98 Failed=2 -------------------------------
+./results/dbval_vestek_perm_group.csv.txt:---------------------------- SUMMARY: Total=1852 Passed=457 Failed=1395-----------------------------
+./results/dbval_worldscope.csv.txt:---------------------------- SUMMARY: Total=2894 Passed=2369 Failed=525-----------------------------
+./results/dbval_worldscope_country.csv.txt:------------------------------ SUMMARY: Total=126 Passed=120 Failed=6 ------------------------------
+./results/dbval_worldscope_field.csv.txt:----------------------------- SUMMARY: Total=1751 Passed=1737 Failed=14-----------------------------
+./results/dbval_worldscope_header.csv.txt:---------------------------- SUMMARY: Total=2034 Passed=524 Failed=1510-----------------------------
+./results/dbval_worldscope_header_load.csv.txt:----------------------------- SUMMARY: Total=2039 Passed=0  Failed=2039-----------------------------
+./results/dbval_worldscope_load.csv.txt:----------------------------- SUMMARY: Total=2028 Passed=0  Failed=2028-----------------------------
+./results/dbval_yield_curve.csv.txt:------------------------------ SUMMARY: Total=228 Passed=214 Failed=14------------------------------
+./results/dbval_yield_curve_point.csv.txt:---------------------------- SUMMARY: Total=2008 Passed=1815 Failed=193-----------------------------
+./results/dbval_yield_curve_point_val.csv.txt:----------------------------- SUMMARY: Total=2077 Passed=1995 Failed=82-----------------------------
